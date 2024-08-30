@@ -2,7 +2,7 @@ package InterfaceState
 
 import (
 	"fmt"
-	"lb/Check"
+	"riply/Check"
 	"log"
 	"net"
 	"sync"
