@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"lb/Check"
-	"lb/InterfaceState"
+	"riply/Check"
+	"riply/InterfaceState"
 	"log"
 	"net"
 	"strconv"
